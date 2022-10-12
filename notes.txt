@@ -1,0 +1,18 @@
+<div class="dialog" role="dialog" aria-labelledby="dialog_title">
+        <div class="dialog__window">
+
+            <div class="dialog_heading">
+                <h2 id="dialog_title">Dialog Example</h2>
+            </div>
+
+            <div class="dialog_content">
+                <p>This is a modal accessibility example.</p>
+                <button>Close</button>
+                <button>Ok</button>
+            </div>
+
+       </div>
+
+        <div class="dialog__mask"></div>
+
+</div>
